@@ -7,7 +7,7 @@
 
 ---
 
-👋 **Student | Developer | Tech Explorer**
+👋 **Undergraduate Student | Developer | Tech Explorer**
 
 ---
 
