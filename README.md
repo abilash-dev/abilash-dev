@@ -44,7 +44,7 @@ I'm a student who loves to explore the ever-evolving world of IT. Whether it's b
 
 ## 🔗 Links
 
-- 🌍 [abilash.link](https://abilash.link)
+- 🌍 Website: [abilash.link](https://abilash.link)
 - 📧 Email: [contact@abilash.link](mailto:contact@abilash.link)
 - 🔗 Discord: [abilash.](https://abilash.link/discord)
 
