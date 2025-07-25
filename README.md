@@ -42,7 +42,7 @@ I'm a student who loves to explore the ever-evolving world of IT. Whether it's b
 
 ### [QR Code Generator and Scanner](https://github.com/abilash-dev/qr-code-generator-and-scanner)
 > **A simple tool to generate and scan QR codes.**  
-> Web application to generate QR codes from any URL or text, and scan QR codes using your device camera or by uploading an image.
+> Generate QR codes from any URL or text, and scan QR codes using your device camera or by uploading an image.
 
 ---
 
