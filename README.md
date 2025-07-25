@@ -40,6 +40,10 @@ I'm a student who loves to explore the ever-evolving world of IT. Whether it's b
 > **A simple Discord chat exporter for Python Discord bots.**  
 > Contributed to enhancing message export features, including support for forwarded messages and transcript formatting.
 
+### [QR Code Generator and Scanner](https://github.com/abilash-dev/qr-code-generator-and-scanner)
+> **A simple tool to generate and scan QR codes.**  
+> HTML-based web application to generate QR codes from any URL or text, and scan QR codes using your device camera or by uploading an image.
+
 ---
 
 ## 🔗 Links
