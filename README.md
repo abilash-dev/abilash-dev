@@ -20,7 +20,7 @@
 I'm a student who loves to explore the ever-evolving world of IT. Whether it's building bots, crafting web apps, or diving into new technologies, I'm always curious and eager to learn. My journey is driven by a passion for discovery and a desire to create tools that make life easier and more fun!
 
 - 🌐 **Web Development:** HTML, CSS, JavaScript  
-- 💻 **Programming:** Python, C#, PHP
+- 💻 **Programming:** Python, C++, C#, PHP
 - 🗄️ **Database:** MongoDB, MySQL, SQLite
 - ⚙️ **Frameworks:** .NET, Bootstrap, Flask
 - 🛠️ **Tools:** VS Code, Visual Studio, GitHub, Processing 
