@@ -23,7 +23,7 @@ I'm a student who loves to explore the ever-evolving world of IT. Whether it's b
 - 💻 **Programming:** Python, C++, C#, PHP
 - 🗄️ **Database:** MongoDB, MySQL, SQLite
 - ⚙️ **Frameworks:** .NET, Bootstrap, Flask
-- 🛠️ **Tools:** VS Code, Visual Studio, GitHub, Processing 
+- 🛠️ **Tools:** VS Code, Visual Studio, GitHub, Processing, CodeBlocks 
 
 <img src="https://github-readme-stats.vercel.app/api?username=abilash-dev&show_icons=true&theme=transparent&count_private=true&hide=issues&hide_title=true&text_color=36BCF7FF&icon_color=05d6f2&ring_color=05d6f2&hide_border=true" alt="Abilash Stats">
 
